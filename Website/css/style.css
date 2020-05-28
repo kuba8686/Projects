@@ -1,0 +1,69 @@
+/*----------- collingarythomasgrasley (modetwentythree.com) collingrasley@gmail.com --- public domain template, because sharing is good ------- no link back required, but it would be real swell :) --------------------*/
+
+/* -----------------  page styles -------------------------------------------------------*/
+
+body { padding:0; margin:0; font:11px Verdana, sans-serif; line-height: 17px; background:#f4f4f4 url(../images/bodybg.png) center repeat-y; color: #555; }
+#wrapper { margin:2px auto; width:900px;  padding:0; background:#fff;}
+
+/* -----------------  general styles  -------------------------------------------------------*/
+
+a { color:#444e28; text-decoration: underline;background:none; }
+.tyt { color:#444; text-decoration: none;}
+a:hover { color:#6a7b3d; background:none; text-decoration:underline; }
+.tyt { color:#444e28;}
+p { margin:0;padding:2px; }
+.ju {text-indent: 0.8cm; text-align:left;}
+.podpis {text-align:right;}
+h1 {color:#444; font-size:20px; margin: 0 0 2px 0; padding:0px 0 10px 0px; border-bottom: 2px dotted #444;}
+.ope {margin: 10px 0 10px 0; border-bottom: none;}
+h2 { font-weight:bold; font-size:12px; padding:0px 0 4px 0px; margin: 6px 0 2px 0; color:#444; background:none; border-bottom: 2px dotted #444; }
+ul { margin: 0 0 0 15px; padding : 2px;  }
+li {margin:0;}
+img { border: 0; }
+h4 {font: 12px 'HelveticaNeue-CondensedBold', 'Arial Narrow', Helvetica, Arial, sans-serif; margin:0;}
+.pic{margin-top:8px;}
+/* -----------------  top info  -------------------------------------------------------*/
+
+#header { clear:both; width:900px; height:80px; background: url(../images/header.jpg) no-repeat; 
+margin:0; }
+#title {float:left; width:240px; padding: 56px 0 10px 20px;}
+#title h3 {font-size:12px; padding:5px 0 0 0; margin:0; color:#444;}
+#hright {float:right; width:540px; height: 60px; margin:15px 0 0 0;}
+#hrighttop {width: 200px;margin: 0 2px 0 0; padding: 0 8px 2px 0; float:right; text-align: right;}
+#title p {font-size: 0.9em; color: #808080; padding: 0; background: inherit;}
+#menu { width: 600px; float:right; margin:2px 0 0 0; padding:0; text-align:right;}
+#menu li { display:inline; }
+#menu li a {  color:#444; text-decoration:none; padding:1px 10px 1px 10px;
+height:19px; background:none;}
+#menu li a:hover { background: none;color:#631e19;} 
+
+/* ----------------- Main content -------------------------------------------------------*/
+
+
+#logastale {  float: left; background-color: white; padding: 10px; width: 123px; }
+#logastale img {  max-height: 40px; max-width: 120px;  }
+#homepic {width:900px; height:250px; margin:5px 0 10px 0;background: url(../images/homepic.jpg) no-repeat;}
+#homepic a {color:#fff;}
+#homepic:hover {background: url(../images/homepichover.jpg) no-repeat;}
+.message{ position:absolute;  width:360px; float:left; margin:70px 0px 0px 165px; color:#fff;}
+#bottomcontenttop{width:900px;height:10px;background: url(../images/b_contenttop.jpg) no-repeat;}
+#promocja{position:relative; padding:10px;}
+#bottomcontent{width:898px; overflow:auto; border-right:1px solid #c5c5c5;border-left:1px solid #c5c5c5;}
+#bottomcontentbtm{width:900px;height:10px;background: url(../images/b_contentbtm.jpg) no-repeat;}
+
+.main {float: right;width: 862px;margin: 0 6px 0px 0; padding:10px;}
+.ekran_op {width: 200px;margin: 0 6px 5px 0; padding:10px;}
+.left {float: right;width: 270px;margin: 0 6px 5px 0; padding:10px;}
+.middle {float: right;width: 270px;margin: 0 6px 5px 0; padding:10px;}
+.right {float: right;width: 270px;margin: 0 6px 5px 0; padding:10px;}
+.thumbs_e img{position:relative;padding:1px;margin:2px 2px 0px 2px;border:2px solid #fff;background:none; text-indent:0cm}
+.thumbs img{position:relative;padding:1px;margin:5px 2px 5px 2px;border:2px solid #631e19;background:none; text-indent:0cm}
+.thumbs img:hover{border:2px solid #c5c5c5; background:none;}
+.thumbs_e img:hover{border:2px solid #fff; background:none;}
+
+/* ----------------- Bottom content -------------------------------------------------------*/
+
+#footer { clear: both; text-align:center; line-height: 1.8em; color: #444; background: #fff; padding: 4px 0; 
+margin:10px 0 0 0;}
+#footer a {color: #631e19; background: inherit;}
+#footer p {font:8px; line-height:130%;}
